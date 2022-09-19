@@ -4,8 +4,8 @@ An enthusiastic Coder, currently learning Java and really keen to join an organi
 and company standard code and also enjoy my time along the way.
 ## About Me
 - ✌ Currently, I am pursuing a 7 months Full-Stack Web Developer course from Masai School.
-- ✔ [My portfolio](https://shibshankar01.github.io/) 
-- ✨ [My LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/)
+- ✔ Have a look at [my portfolio](https://shibshankar01.github.io/) 
+- ✨ You can also contact me on [my LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/)
 - 📫 You can reach me at:- [My email](shivapadhy547@gmail.com)
 - 💬 Ask me about Java
 
