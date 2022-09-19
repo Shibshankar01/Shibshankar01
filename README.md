@@ -10,7 +10,7 @@ and company standard code and also enjoy my time along the way.
 - 💬 Ask me about Java
 
 ## Tech-Stack
-##### Java | JavaScript | HTML | CSS | C#, .Net | Angular
+#### Java | JavaScript | HTML | CSS | C#, .Net | Angular
 
 
 ## My GitHub Stats
