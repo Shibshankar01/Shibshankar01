@@ -12,6 +12,8 @@ and company standard code and also enjoy my time along the way.
 ## Tech-Stack
 ##### Java | JavaScript | HTML | CSS | C#, .Net | Angular
 
+
+## My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shibshankar01&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shibshankar01&langs_count=5&theme=tokyonight)]()
 
