@@ -3,7 +3,7 @@
 An enthusiastic Coder, currently learning Java and really keen to join an organization where I can learn from my team-mates and solve problems. Eager to develop reusable
 and company standard code and also enjoy my time along the way.
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" height="320" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="300" height="320" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shibshankar01.shibshankar01)
 
