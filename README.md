@@ -9,10 +9,12 @@ and company standard code and also enjoy my time along the way.
 
 ## About Me
 - ✌ Currently, I am pursuing a 7 months Full-Stack Web Developer course from Masai School.
-- ✔ Have a look at [my portfolio](https://shibshankar01.github.io/) 
-- ✨ You can also contact me on [my LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/)
-- 📫 You can reach me at:- [My email](shivapadhy547@gmail.com)
-- 💬 Ask me about Java
+- ✔ Have a look at [my portfolio](https://shibshankar01.github.io/) .
+- ✨ You can also contact with me on [my LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/).
+- 📫 You can reach me at:- [My email](shivapadhy547@gmail.com).
+- 💬 Ask me about Java.
+- 💻 My biggest motivation is that I can write some code that would automate an organization's service or help them in solving a problem.
+- ♟ I like playing Chess and reading books.
 
 ## Tech-Stack
 #### Java | JavaScript | HTML | CSS | C#, .Net | Angular
@@ -21,6 +23,7 @@ and company standard code and also enjoy my time along the way.
 ## My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Shibshankar01&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shibshankar01&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shibshankar01)](https://git.io/streak-stats)
 
 
 <!--
