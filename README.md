@@ -10,7 +10,7 @@ An enthusiastic coder, currently working on C#, .Net, Angular CLI and Microsoft 
 - ✌ Currently, I am pursuing a 7 months Full-Stack Web Developer course from Masai School.
 - ✔ Have a look at [my portfolio](https://shibshankar01.github.io/) .
 - ✨ You can also contact with me on [my LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/).
-- 📫 You can reach me at:- [My email](shivapadhy547@gmail.com).
+- 📫 You can reach me at:- [shivapadhy547@gmail.com].
 - 💬 Ask me about OOPS😃.
 - 💻 My biggest motivation is that I can write some code that would automate an organization's service or help them in solving a problem.
 - ♟ I like playing Chess and reading books.
