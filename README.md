@@ -7,9 +7,9 @@ An enthusiastic coder, currently working on C#, .Net, Angular CLI and Microsoft 
 ![](https://visitor-badge.glitch.me/badge?page_id=shibshankar01.shibshankar01)
 
 ## About Me
-- ✌ Currently, I am pursuing a 7 months Full-Stack Web Developer course from Masai School.
+- ✌ Currently, I am working with Traceart Technologies Pvt Ltd.
 - ✔ Have a look at [my portfolio](https://shibshankar01.github.io/) .
-- ✨ You can also contact with me on [my LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/).
+- ✨ You can also contact me on [my LinkedIn](https://www.linkedin.com/in/shibshankar-padhy-98952b1b7/).
 - 📫 You can reach me at:- [shivapadhy547@gmail.com].
 - 💬 Ask me about OOPS😃.
 - 💻 My biggest motivation is that I can write some code that would automate an organization's service or help them in solving a problem.
@@ -30,7 +30,7 @@ An enthusiastic coder, currently working on C#, .Net, Angular CLI and Microsoft 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on .Net Core APIs and Angular CLI
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
